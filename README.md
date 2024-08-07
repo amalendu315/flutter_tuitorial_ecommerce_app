@@ -1,5 +1,5 @@
 
-# FLUTTER TUITORIAL ECOMMERCE APP WITH FIREBASE
+# FLUTTER TUTORIAL ECOMMERCE APP WITH FIREBASE
 
 In this project I am gonna master the art of developing a complete flutter eCommerce app with Firebase as a backend. Modern eCommerce app UI and much more.
 
