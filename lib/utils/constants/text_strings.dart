@@ -11,6 +11,11 @@ class TTexts {
   static const String onBoardingSubTitle3 =
       "From Our Doorstep to Yours - Swift, Secure, and Contactless Delivery";
 
+  //Login
+  static const String loginTitle = 'Welcome back,';
+  static const String loginSubTitle =
+      'Discover Limitless Choices and Unmatched Convinience';
+
   //Home
   static const String homeAppbarTitle = 'Good day for shopping';
   static const String homeAppbarSubTitle = 'Amalendu Pandey';
